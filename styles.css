@@ -43,7 +43,7 @@
     text-align: center;
     color: purple;
 }
-.heading-1-1{
+.heading-2-1{
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
@@ -55,9 +55,50 @@
     font-size: 30px;
 }
 
-.heading-1-2{
+.heading-2-2{
     text-align: left;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
 }
 
+.title-3{
+    font-size: 200px;
+    text-align: center;
+    color: purple;
+}
+
+.heading-3-1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.heading-3-2{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.title-4{
+    font-size: 200px;
+    text-align: center;
+    color: purple;
+}
+
+.heading-4-1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.heading-4-2{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.heading-5-1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
