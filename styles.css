@@ -24,13 +24,13 @@
 .heading-1-1{
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 60;
+    font-size: 40px;
 }
 
 .heading-1-2{
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 
@@ -118,8 +118,8 @@
     text-align: left;
 }
 
-.title-6{
-    font-size: 170px;
+.title-5{
+    font-size: 175px;
     text-align: center;
     color: purple;
 }
