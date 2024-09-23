@@ -19,6 +19,21 @@
     text-align:center
 }
 
+
+
+.heading-1-1{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60;
+}
+
+.heading-1-2{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+
 .link{
     font-size: 40px;
     text-align: center;
@@ -101,4 +116,10 @@
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
+}
+
+.title-6{
+    font-size: 170px;
+    text-align: center;
+    color: purple;
 }
